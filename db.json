@@ -2,83 +2,83 @@
   "events": [
     {
       "id": 1,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Canvus Laugh Club",
+      "date": "August 2",
+      "time": "4PM",
       "address": "",
-      "city": ""
+      "city": "Delhi"
     },
     {
       "id": 2,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Sunburn 2020",
+      "date": "August 5",
+      "time": "7PM",
       "address": "",
-      "city": ""
+      "city": "Mumbai"
     },
     {
       "id": 3,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Sunburn 2020",
+      "date": "August 9",
+      "time": "7PM",
       "address": "",
-      "city": ""
+      "city": "Delhi"
     },
     {
       "id": 4,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Zakir Khan Special at CLC",
+      "date": "August 10",
+      "time": "4PM",
       "address": "",
-      "city": ""
+      "city": "Mumbai"
     },
     {
       "id": 5,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Gaurav Kapoor Live",
+      "date": "August 10",
+      "time": "5PM",
       "address": "",
-      "city": ""
+      "city": "Delhi"
     },
     {
       "id": 6,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Amazon Live Special Featuring Vir Das",
+      "date": "August 17",
+      "time": "3PM",
       "address": "",
-      "city": ""
+      "city": "Mumbai"
     },
     {
       "id": 7,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Retro Future",
+      "date": "August 18",
+      "time": "9PM",
       "address": "",
-      "city": ""
+      "city": "Delhi"
     },
     {
       "id": 8,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Music Camp",
+      "date": "August 23",
+      "time": "4PM",
       "address": "",
-      "city": ""
+      "city": "Mumbai"
     },
     {
       "id": 9,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Comedy Central",
+      "date": "August 26",
+      "time": "6PM",
       "address": "",
-      "city": ""
+      "city": "Delhi"
     },
     {
       "id": 10,
-      "name": "",
-      "date": "",
-      "time": "",
+      "name": "Punchliners Comedy",
+      "date": "August 30",
+      "time": "5PM",
       "address": "",
-      "city": ""
+      "city": "Mumbai"
     }
   ],
   "profile": {
